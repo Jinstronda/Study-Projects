@@ -1,2 +1,7 @@
 # Study-Projects
- Projects that i do for studying topics and going more in depth on them,
+
+This repository showcases projects I've completed to deepen my understanding of various topics. Each project is designed to apply theoretical concepts to practical implementations.
+
+## Projects
+
+- [Creating Neural Networks From Scratch](./Creating-Neural-Networks-From-Scratch/README.md)
