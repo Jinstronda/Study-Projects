@@ -1,0 +1,60 @@
+Learning Rate:0.000616613203461531
+Precision: 98.03%
+Recall: 98.01%
+F1 Score: 98.02%
+Accuracy: 98.03%
+
+Learning Rate:0.000616613203461531
+Precision: 98.03%
+Recall: 98.00%
+F1 Score: 98.01%
+Accuracy: 98.02%
+
+Learning Rate:0.000616613203461531
+Regularization:0.001Precision: 97.89%
+Recall: 97.92%
+F1 Score: 97.90%
+Accuracy: 97.92%
+
+Learning Rate:0.000616613203461531
+Regularization:0.005Precision: 97.80%
+Recall: 97.78%
+F1 Score: 97.78%
+Accuracy: 97.80%
+Batch Size: 64
+Learning Rate:0.000616613203461531
+Regularization:0.01Precision: 97.95%
+Recall: 97.92%
+F1 Score: 97.93%
+Accuracy: 97.94%
+Batch Size: 64
+
+Trial Number 5
+Learning Rate:0.000616613203461531
+Regularization:0.01
+Precision: 98.01%
+Recall: 97.98%
+F1 Score: 98.00%
+Accuracy: 98.01%
+Batch Size: 64
+
+Trial Number 6 - Apparently even increasaing layers dont let me go over 98%
+Learning Rate:0.000616613203461531
+Regularization:0.01
+Precision: 97.99%
+Recall: 97.98%
+F1 Score: 97.98%
+Accuracy: 98.00%
+Batch Size: 64
+Epochs: 20
+
+Trial Number 7 - Mesmo com MUITOS neuronios não consegui passar de 98%
+Learning Rate:0.000616613203461531
+Regularization:0.01
+Precision: 97.96%
+Recall: 97.93%
+F1 Score: 97.94%
+Accuracy: 97.96%
+Batch Size: 64
+Epochs: 20
+
